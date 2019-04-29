@@ -55,8 +55,15 @@ You can see the image with drawed boxes as:
 
 <div align=left>
 
+### TODO 
+the code support: 
+
+  * Support for the MS COCO dataset and VOC PASCAL dataset
+  * Support for stdn300,stdn321,stdn513 training and testing
+  * Support for mulltigpu training
+  * Support training and and testing in VOC and COCO  
+  
 ### References
 * [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)
 * [M2Det](https://github.com/qijiezhao/M2Det)
 * [Pelee](https://github.com/Robert-JunWang/Pelee)
-* 
