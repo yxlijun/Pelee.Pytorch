@@ -11,7 +11,7 @@ I train Pelee with pytorch and the result is better than the original paper resu
 | SSD300 | 77.2 | 81.2|
 | SSD+MobileNet | 68 | 72.7|
 | Original Pelee | 70.9| 76.4|
-| Ours Pelee | [71.5](https://drive.google.com/open?id=16HparGAVhxTDByi5RylYCkxLZYducK9j) |  ---  |
+| Ours Pelee | [71.76](https://drive.google.com/open?id=16HparGAVhxTDByi5RylYCkxLZYducK9j) |  ---  |
 
 ### Preparation
 **the supported version is pytorch-0.4.1 or pytorch-1.0**  
@@ -51,7 +51,7 @@ you can test your image, First, download the trained model [Pelee_VOC.pth](https
 python demo.py --dataset VOC\COCO  --config ./configs/Pelee_VOC.py --trained_model ./weights/Pelee_VOC.pth --show  
 ```
 You can see the image with drawed boxes as:
-<div align=center><img src="imgs/VOC/im_res/street_stdn.jpg" width="450" hegiht="163" align=center />
+<div align=center><img src="imgs/VOC/im_res/street_stdngit.jpg" width="450" hegiht="163" align=center />
 
 <div align=left>
 
