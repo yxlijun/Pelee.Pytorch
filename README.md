@@ -59,7 +59,7 @@ You can see the image with drawed boxes as:
 the code support: 
 
   * Support for the MS COCO dataset and VOC PASCAL dataset
-  * Support for stdn300,stdn321,stdn513 training and testing
+  * Support for Pelee304_VOC、Pelee304_COCO training and testing
   * Support for mulltigpu training
   * Support training and and testing in VOC and COCO  
   
