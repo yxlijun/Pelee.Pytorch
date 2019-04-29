@@ -51,7 +51,7 @@ you can test your image, First, download the trained model [Pelee_VOC.pth](https
 python demo.py --dataset VOC\COCO  --config ./configs/Pelee_VOC.py --trained_model ./weights/Pelee_VOC.pth --show  
 ```
 You can see the image with drawed boxes as:
-<div align=center><img src="imgs/VOC/im_res/004545_stdn.jpg" width="450" hegiht="163" align=center />
+<div align=center><img src="imgs/VOC/im_res/street_stdn.jpg" width="450" hegiht="163" align=center />
 
 <div align=left>
 
